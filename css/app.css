@@ -26,3 +26,6 @@
 .backg{
     background-color: white;
 }
+.align{
+    display: inline-block;
+}
