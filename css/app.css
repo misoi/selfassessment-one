@@ -1,6 +1,15 @@
 .body{
     background-color:#8585ad;
+    margin: 20px;
 }
 .columnone{
     background-color: #33383b;
+}
+.logo{
+    height: 6em;
+    width:70em;
+    color: #33383b;
+}
+.file{
+    color: white;
 }
