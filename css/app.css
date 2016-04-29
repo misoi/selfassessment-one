@@ -1,6 +1,6 @@
 .body{
     background-color:#8585ad;
-    margin: 20px;
+ margin: 50px;
 }
 .columnone{
     background-color: #33383b;
@@ -28,5 +28,5 @@
 }
 .align{
     display: inline-block;
-    padding: 1px;
+    padding: 1.5px;
 }
